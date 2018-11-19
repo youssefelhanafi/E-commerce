@@ -1,0 +1,4 @@
+#Wed May 02 14:21:21 CEST 2018
+base.0=D\:\\Android Source\\androidWorkspace\\Ecom\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+renamed.0=classes.dex
+file.0=D\:\\Android Source\\androidWorkspace\\Ecom\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26\\classes.dex
